@@ -1,16 +1,12 @@
-### Hi there 👋
 
-<!--
-**devhenriqueZ/devhenriqueZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```csharp
+-----------------------------------------------------------------
+    Degree    : AAs. Analysis and System Development
+    Interests : DeFi, Blockchain, Biohacking, Cryptography 
+    Backend   : PHP, Laravel, MySQL, SQLite, Cobol
+    Frontend  : Html, Css, JavaScript, Bootstrap
+    Cloud     : AWS [Elastic Beanstalk, S3, RDS, EC2]
+    LinkedIn  : /devhenriquez
+    E-mail    : henriquegon@protonmail.com
+-----------------------------------------------------------------
+```
