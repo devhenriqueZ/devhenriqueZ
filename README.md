@@ -6,6 +6,7 @@
     Backend   : PHP, Laravel, MySQL, SQLite, Cobol
     Frontend  : Angular, Html, Css, JavaScript, Bootstrap
     Cloud     : AWS [Elastic Beanstalk, S3, RDS, EC2]
+    Others    : Docker, Kubernetes, Redis
     LinkedIn  : /devhenriquez
     E-mail    : henriquegon@protonmail.com
 -----------------------------------------------------------------
