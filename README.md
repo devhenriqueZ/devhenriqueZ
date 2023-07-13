@@ -2,10 +2,10 @@
 ```csharp
 -----------------------------------------------------------------
     Degree    : AAs. Analysis and System Development
-    Interests : DeFi, Blockchain, Biohacking, Cryptography 
-    Backend   : PHP, Laravel, MySQL, SQLite, Cobol
+    Interests : DeFi, Blockchain, Biohacking, ESG 
+    Backend   : PHP, Laravel, Cobol, MySQL, SQLite, DB2
     Frontend  : Angular, Html, Css, JavaScript, Bootstrap
-    Cloud     : AWS [Elastic Beanstalk, S3, RDS, EC2]
+    Cloud     : AWS and Azure
     Others    : Docker, Kubernetes, Redis
     LinkedIn  : /devhenriquez
     E-mail    : henriquegon@protonmail.com
